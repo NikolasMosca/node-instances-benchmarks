@@ -17,7 +17,7 @@ The methods used in this test are:
 
 ### This is the representation of the same data in a column chart, just to display better the comparison
 
-![benchmark on terminal](benchmark-graph.jpg)
+![benchmark on terminal](benchmark-graph-v2.jpg)
 
 ---
 
