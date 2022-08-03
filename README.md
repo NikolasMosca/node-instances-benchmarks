@@ -8,3 +8,5 @@ The methods used in this test are:
 - Factory method with Object.assign + Object.create, another method but similar to the first but different in terms of performance, see this [link](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9) for more informations
 
 ![benchmark on terminal](benchmark-terminal-v2.jpg)
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mosca.nikolas/1.embed"></iframe>
