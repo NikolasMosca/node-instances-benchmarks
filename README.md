@@ -7,4 +7,4 @@ The methods used in this test are:
 - Class method using the keyword class that creates a special function, see this [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) for more informations
 - Factory method with Object.assign + Object.create, another method but similar to the first but different in terms of performance, see this [link](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9) for more informations
 
-![benchmark on terminal](benchmark-terminal.jpg)
+![benchmark on terminal](benchmark-terminal.jpg?nocache=9999)
